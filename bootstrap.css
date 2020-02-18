@@ -1,0 +1,75 @@
+#bio-me{
+    margin-left: 8%;
+}
+
+#me-myself .contain{
+    width: 960px;
+}
+
+#index-bio2{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+#self-image{
+    width: 200px;
+    height: 200px;
+    margin-left: 40%;
+}
+
+#column-bio{
+    margin-right: 0;
+}
+
+#dart-pic{
+    width: 200px;
+    height: 200px;
+}
+
+
+#dart-pic:hover{
+    width: 400px;
+    height: 400px;
+}
+
+#city-pic{
+    width: 200px;
+    height: 200px;
+}
+
+#city-pick:focus{
+    width: 50px;
+    height: 50px;
+}
+
+#game-pic{
+    width: 200px;
+    height: 200px;
+}
+
+#dice-pic{
+    width: 200px;
+    height: 200px;
+}
+
+#rube-pic{
+    width: 200px;
+    height: 200px;
+}
+
+#rube-pic:active{
+    display: none;
+}
+
+.footer-bottom{
+    background-color: #666667;
+    height: 12px;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding-top: 20px;
+    width: 100%;
+    padding-bottom: 22px;
+    border-top: 8px solid #4aaaa5;
+}
