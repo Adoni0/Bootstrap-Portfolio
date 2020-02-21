@@ -1,65 +1,45 @@
-#bio-me{
-    margin-left: 8%;
-}
 
 #me-myself .contain{
     width: 960px;
 }
 
 #index-bio2{
-    margin-left: 13%;
-    margin-right: 13%;
-}
-
-#self-image{
-    width: 200px;
-    height: 200px;
-    margin-left: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 #column-bio{
-    margin-right: 0;
+   margin-left: 5%;
 }
 
-#dart-pic{
-    width: 200px;
-    height: 200px;
+.border-container{
+    border-style: outset;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #ffffff;
+    margin-top: 5%;
 }
 
-
-#dart-pic:hover{
-    width: 400px;
-    height: 400px;
+header{
+    background-color: white;
 }
 
-#city-pic{
-    width: 200px;
-    height: 200px;
+.index-me{
+    background-color: #4aaaa5;
+    margin-right: 71%;
+    color: white;
 }
 
-#city-pick:focus{
-    width: 50px;
-    height: 50px;
+body{
+    background-image: url('images/light_grey.png');
 }
 
-#game-pic{
-    width: 200px;
-    height: 200px;
+#contain-this{
+    background-color: #ffffff;
+    border-style: outset;
+    margin-top: 5%;
 }
 
-#dice-pic{
-    width: 200px;
-    height: 200px;
-}
-
-#rube-pic{
-    width: 200px;
-    height: 200px;
-}
-
-#rube-pic:active{
-    display: none;
-}
 
 .footer-bottom{
     background-color: #666667;
