@@ -57,3 +57,97 @@ body{
 .btn{
     margin-top: 5px;
 }
+
+.navbar{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.navbar-brand{
+    background-color: #4aaaa5;
+    padding: 10px;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+p{
+    color: black;
+}
+
+.page-header{
+    padding-bottom: 10px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 20px;
+}
+
+#ctc-me{
+    padding-bottom: 10px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 20px;
+}
+
+#pdiddy-box{
+    padding-bottom: 10px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 20px;
+}
+
+h2{
+    color: #4aaaa5;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#pbox{
+    border-style: outset;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #ffffff;
+    margin-top: 2%;
+}
+
+#navbarSupportedContent{
+    margin-left: 50%;
+}
+
+@media screen {
+    #pheader-2 #pheader #hd-abtme{
+        max-width: 100%;
+    }
+}
+
+.card-img-top{
+    height: 190px;
+}
+
+.card-text{
+    text-align: center;
+    color: #ffffff;
+    font-size: large;
+}
+
+.card-body{
+    position: absolute;
+    top: 65%;
+    left: 0%;
+    z-index: 1;
+    background-color: #4aaaa5;
+    width: 286px;
+    height: 50px;
+}
+
+.card{
+    position: relative;
+    z-index: 0;
+}
+
+#row-id{
+    padding-bottom: 5%;
+}
+
+#row-id2{
+    margin-bottom: 5%;
+}
+
