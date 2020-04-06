@@ -1,20 +1,25 @@
-$('#darts').on('click', function(){
+$('#gif').on('click', function(){
     window.location = 'https://adoni0.github.io/GIPHY-API-Project/';
     
 });
 
-$('#city').on('click', function(){
+$('#train').on('click', function(){
     window.location = 'https://adoni0.github.io/Train-Scheduler/';
     
 });
 
-$('#rubix').on('click', function(){
+$('#crystal').on('click', function(){
     window.location = 'https://adoni0.github.io/Unit-4-game/';
     
 });
 
-$('#gaming').on('click', function(){
-    window.location = 'https://github.com/KittM/project-1';
+$('#group').on('click', function(){
+    window.location = 'https://kittm.github.io/project-1/';
+    
+});
+
+$('#trivia').on('click', function(){
+    window.location = 'https://adoni0.github.io/TriviaGame/';
     
 });
 
